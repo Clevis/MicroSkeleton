@@ -5,7 +5,7 @@ use Nette\Application\Routers\Route;
 
 require __DIR__ . '/vendor/autoload.php';
 
-Debugger::$logDirectory = __DIR__ . '/tmp/log';
+Debugger::$logDirectory = __DIR__ . '/temp/log';
 Debugger::$strictMode = TRUE;
 Debugger::enable();
 
