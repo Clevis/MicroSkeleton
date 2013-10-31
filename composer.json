@@ -1,0 +1,17 @@
+{
+	"name": "clevis/micro-skeleton",
+	"description": "Skeleton for micro projects.",
+	"homepage": "http://clevis.cz",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Clevis s.r.o.",
+			"homepage": "http://clevis.cz"
+		}
+	],
+
+	"require": {
+		"php": ">= 5.3.7",
+		"nette/nette": "@dev"
+	}
+}
